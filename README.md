@@ -1,2 +1,2 @@
 ﻿# wejha.github.io
- [check](_connfig.yml)
+ [check](_config.yml)
